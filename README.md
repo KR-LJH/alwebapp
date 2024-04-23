@@ -9,6 +9,7 @@
 
 ## 실행 화면 
 ![실행화면]
+(https://github.com/kr-ljh/alwebapp/blob/res/main.PNG)
 
 
 ## 프로그램 실행하기 
