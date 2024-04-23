@@ -12,5 +12,5 @@
 
 
 ## 프로그램 실행하기 
-https://emmett6401.github.io/AIwebappTM02/
+ https://kr-ljh.github.io/alwebapp/
 <br> *위 링크를 클릭하시면 실행됩니다. 
