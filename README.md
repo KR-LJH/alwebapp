@@ -11,7 +11,9 @@
 
 ## 실행 화면 
 ![실행화면]
+  시작화면
 (https://github.com/kr-ljh/alwebapp/blob/main/res/main.PNG)
+  결과화면
 (https://github.com/kr-ljh/alwebapp/blob/main/res/start.png)
 
 
