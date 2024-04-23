@@ -4,12 +4,15 @@
 ## 사용된 기술
   1. html
  ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-  3. javascript
+  2. javascript
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+  3. css
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## 실행 화면 
 ![실행화면]
 (https://github.com/kr-ljh/alwebapp/blob/main/res/main.PNG)
+(https://github.com/kr-ljh/alwebapp/blob/main/res/start.png)
 
 
 ## 프로그램 실행하기 
