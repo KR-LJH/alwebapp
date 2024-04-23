@@ -9,3 +9,8 @@
 
 ## 실행 화면 
 ![실행화면]
+
+
+## 프로그램 실행하기 
+https://emmett6401.github.io/AIwebappTM02/
+<br> *위 링크를 클릭하시면 실행됩니다. 
