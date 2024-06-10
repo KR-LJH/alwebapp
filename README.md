@@ -6,10 +6,9 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 ## 실행 화면 
-  1. 시작화면
-(https://github.com/kr-ljh/alwebapp/blob/main/res/main.PNG)
-  2. 결과화면
-(https://github.com/kr-ljh/alwebapp/blob/main/res/start.png)
+  1. 시작화면  
+![image](https://github.com/kr-ljh/alwebapp/raw/main/res/main.PNG)
+
 
 
 ## 프로그램 실행하기 
